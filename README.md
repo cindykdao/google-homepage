@@ -1,0 +1,1 @@
+This is the first real project for The Odin Project. We have to create a web page and edit the HTML and CSS, with not much functionality yet since we have not learned Javascript yet. 
